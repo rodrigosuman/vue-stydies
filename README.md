@@ -22,7 +22,7 @@ _Repositório de estudos com Vue.js. Nesse estudo, quero criar um formulário de
 
 - [x] Mostrar dados cadastrados em tela.
 
-  ***
+---
 
 ## Modulos
 
@@ -30,3 +30,16 @@ _Repositório de estudos com Vue.js. Nesse estudo, quero criar um formulário de
 - Axios para requisições APIs
 - Vuex para gerenciamento do state da aplicação
 - bootstrap e bootstrap-vue para identidade visual
+
+---
+
+## Pré-requisitos de ambiente
+- NodeJS LTS
+- yarn LTS
+
+---
+
+## Instalação
+- 1 - Clone o repositório
+- 2 - Na pasta com os arquivos, execute o comando yarn para instalar as dependências do projeto
+- 3 - Execute o comando yarn run serve para iniciar a aplicação
