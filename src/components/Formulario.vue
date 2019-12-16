@@ -30,7 +30,7 @@
           v-model="form.telefone"
           type="text"
           required
-          @keyup="maskPhone"
+          @keypress="maskPhone"
           :maxlength="15"
         ></b-form-input>
       </b-form-group>
@@ -47,7 +47,7 @@
           type="text"
           required
           :maxlength="9"
-          @keyup="maskCep"
+          @keypress="maskCep"
           @blur="getAddress"
         ></b-form-input>
       </b-form-group>
