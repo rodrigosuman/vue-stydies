@@ -8,7 +8,7 @@ _Repositório de estudos com Vue.js. Nesse estudo, quero criar um formulário de
 
 - [x] Add bootstrap para os layouts.
 
-- [ ] Criar um componente para o formário de cadastro.
+- [x] Criar um componente para o formário de cadastro.
 
 - [ ] Criar um componente, pode ser um modal, para mostrar os dados cadastrados.
 
