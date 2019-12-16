@@ -4,16 +4,29 @@
 
 _Repositório de estudos com Vue.js. Nesse estudo, quero criar um formulário de cadastro com dados pessoais, compartilhando essas informações com outros componentes da aplicação._
 
+## TODOS
+
 - [x] Inicializar um projeto Vue.
 
 - [x] Add bootstrap para os layouts.
 
 - [x] Criar um componente para o formário de cadastro.
 
-- [ ] Criar um componente, pode ser um modal, para mostrar os dados cadastrados.
+- [x] Criar um componente, pode ser um modal, para mostrar os dados cadastrados com paginação.
 
-- [ ] Chamar api dos correios para buscar dados do endereço.
+- [x] Criar store da aplicação para compartilhamento de estado entre todos os componente. (Vuex)
 
-- [ ] Criar rotina para salvar dados de cadastro.
+- [x] Chamar api dos correios para buscar dados do endereço.
 
-- [ ] Mostrar dados cadastrados em tela.
+- [x] Criar rotina para salvar dados de cadastro.
+
+- [x] Mostrar dados cadastrados em tela.
+
+  ***
+
+## Modulos
+
+- Vue.js para desenvolvimento do front-end
+- Axios para requisições APIs
+- Vuex para gerenciamento do state da aplicação
+- bootstrap e bootstrap-vue para identidade visual
