@@ -2,8 +2,6 @@
 
 ---
 
-_Repositório de estudos com Vue.js. Nesse estudo, quero criar um formulário de cadastro com dados pessoais, compartilhando essas informações com outros componentes da aplicação._
-
 ## TODOS
 
 - [x] Inicializar um projeto Vue.
